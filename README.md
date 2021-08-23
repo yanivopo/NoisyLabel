@@ -13,7 +13,7 @@ CIFAR10 with one-hot vector contains the two true classes(partial-labeling)
 * noisy_label.pdf - pdf file with explanation. 
 * README.md  
 
-####How to use? #### 
+### How to use? ### 
 * Download and install Anaconda
 * Extract the zip file
 * conda create -n noisy_label_env python=3.6
