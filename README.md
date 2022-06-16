@@ -1,4 +1,4 @@
-Noisy Label
+Noisy Labels - partial-labeling
 -------------------- 
 ### Task definition ### 
 In this task CIFAR-10 images are classified based on partial labeling.
